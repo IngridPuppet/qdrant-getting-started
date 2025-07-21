@@ -15,7 +15,7 @@ If you use [Mamba](https://mamba.readthedocs.io/en/latest/) for environment mana
 
 ```bash
 mamba env create -f environment.yml
-mamba activate qdrant-getting-started-official
+mamba activate qdrant-getting-started
 ```
 
 # Start Jupyter Lab
